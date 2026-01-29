@@ -17,23 +17,18 @@ An intelligent web application that uses **Gemma 3 27b** (multimodal vision-lang
 - Python 3.11
 - A Google Gemini/Gemma API Key from [Google AI Studio](https://aistudio.google.com/).
 
-## Installation 📦
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd text_extracter_tool
-   ```
-
-2. **Install dependencies**:
-   ```bash
+   git clone https://github.com/abdullah-zmoosa/ai-text-extractor-tool.git
+   cd ai-text-extractor-tool
+   
+    2. **Install dependencies**:
+   
    pip install -r requirements.txt
-   ```
+   
 
-3. **Run the application**:
-   ```bash
+    3. **Run the application**:
+   
    streamlit run app.py
-   ```
+   
 
 ## Getting your API Key
 
