@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.DS_Store
+.venv/
+env/
+venv/
+build/
+dist/
+.streamlit/config.toml
