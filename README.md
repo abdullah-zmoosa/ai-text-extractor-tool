@@ -22,7 +22,7 @@ An intelligent web application that uses **Gemma 3 27b** (multimodal vision-lang
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/abdullah-zmoosa/ai-text-extractor-tool.git
-   cd text_extracter_tool
+   cd ai-text-extractor-tool
    ```
 
 2. **Install dependencies**:
